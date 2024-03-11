@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python and MATLAB, and looking to get proficient at using GitHub.
-- I work for Prof. Ben Golub (Economics and Computer Science) at Northwestern University.
+- 📈 I work for Prof. Ben Golub (Economics and Computer Science) at Northwestern University.
 - 📫 How to reach me: email me at yanncalvolopez@gmail.com!
 
 
